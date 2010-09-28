@@ -84,6 +84,7 @@ GEM
 
 PLATFORMS
   x86-mingw32
+  ruby
 
 DEPENDENCIES
   rails (= 3.0.0)
